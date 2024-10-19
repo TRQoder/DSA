@@ -1,0 +1,10 @@
+Done:
+-> pair sum
+-> Triplet sum
+-> four no. whose sum is ..
+-> sort 0's and 1's with two pointer approach
+
+HW : 
+-> Left rotate an Array by 1 element
+-> Majority element in an Array
+-> Buy and Sell Stock - level 1;
